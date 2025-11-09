@@ -57,15 +57,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=demagalawrence&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
----
 
-## 🌐 Visitor Count
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/demagalawrence/count.svg" alt="Profile Views" />
-</p>
-
----
 
 ## 🌐 Let's Connect!
 
