@@ -1,66 +1,68 @@
-# 👋 Hi there, I'm Demaga Lawrence
+# 👋 Hi there, 
 
 🎓 I’m a **Software Engineering student at Bugema University**  
-💡 Passionate about **programming, open source, and real-world problem-solving**  
-🌱 Currently learning **Java, HTML, CSS, and Git/GitHub**  
+💡 Passionate about **programming, open source, and solving real-world problems**  
+🌱 Currently learning **Java, HTML, CSS, Git/GitHub, and more**  
 🧑‍💻 Working on **small projects** to grow my skills and build my portfolio  
 🤝 Looking to contribute to **beginner-friendly open-source projects**
 
 ---
 
-## 🛠️ Tech I'm Familiar With
+## 🛠️ Tech Skills & Proficiency
 
-- **Java**
-- **HTML & CSS**
-- **Python**
-- **VB.NET**
-- **C Programming**
-- **Git & GitHub**
-- **Eclipse**
-- **Visual Studio Code**
+| Technology | Skill Level |
+|------------|------------|
+| Java       | ![Java](https://img.shields.io/badge/Java-80%25-green) |
+| HTML & CSS | ![HTML](https://img.shields.io/badge/HTML/CSS-85%25-orange) |
+| Python     | ![Python](https://img.shields.io/badge/Python-70%25-blue) |
+| VB.NET     | ![VB.NET](https://img.shields.io/badge/VB.NET-60%25-purple) |
+| C Programming | ![C](https://img.shields.io/badge/C-65%25-lightgrey) |
+| Git & GitHub | ![Git](https://img.shields.io/badge/Git-75%25-red) |
+| JavaScript | ![JS](https://img.shields.io/badge/JavaScript-70%25-yellow) |
+| Node.js    | ![Node](https://img.shields.io/badge/Node.js-60%25-green) |
+| React      | ![React](https://img.shields.io/badge/React-55%25-blue) |
+| TailwindCSS | ![Tailwind](https://img.shields.io/badge/TailwindCSS-50%25-teal) |
 
 ---
 
-## 🚀 Currently Learning
+## 🚀 Currently Learning / Exploring
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg#gh-dark-mode-only" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg#gh-light-mode-only" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg#gh-dark-mode-only" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg#gh-light-mode-only" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>
 </p>
 
 ---
 
 ## 📚 Projects I'm Working On
 
-You can find some of my projects in my **pinned repositories**:
-
-- 🧮 Java Console Apps  
-- 🌐 Portfolio Website (HTML/CSS)  
-- 🧱 Web Templates  
+- 🧮 **Java Console Apps** – learning problem-solving and algorithms  
+- 🌐 **Portfolio Website** – showcasing projects using HTML/CSS  
+- 🧱 **Web Templates** – reusable templates for websites
 
 ---
 
-## 📊 Top Languages
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/demagalawrence">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demagalawrence&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=demagalawrence&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=demagalawrence&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🌐 Visitor Count
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/demagalawrence/count.svg" alt="Profile Views" />
 </p>
 
 ---
