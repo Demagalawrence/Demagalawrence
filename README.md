@@ -6,24 +6,6 @@
 🧑‍💻 Working on **small projects** to grow my skills and build my portfolio  
 🤝 Looking to contribute to **beginner-friendly open-source projects**
 
----
-
-## 🛠️ Tech Skills & Proficiency
-
-| Technology | Skill Level |
-|------------|------------|
-| Java       | ![Java](https://img.shields.io/badge/Java-80%25-green) |
-| HTML & CSS | ![HTML](https://img.shields.io/badge/HTML/CSS-85%25-orange) |
-| Python     | ![Python](https://img.shields.io/badge/Python-70%25-blue) |
-| VB.NET     | ![VB.NET](https://img.shields.io/badge/VB.NET-60%25-purple) |
-| C Programming | ![C](https://img.shields.io/badge/C-65%25-lightgrey) |
-| Git & GitHub | ![Git](https://img.shields.io/badge/Git-75%25-red) |
-| JavaScript | ![JS](https://img.shields.io/badge/JavaScript-70%25-yellow) |
-| Node.js    | ![Node](https://img.shields.io/badge/Node.js-60%25-green) |
-| React      | ![React](https://img.shields.io/badge/React-55%25-blue) |
-| TailwindCSS | ![Tailwind](https://img.shields.io/badge/TailwindCSS-50%25-teal) |
-
----
 
 ## 🚀 Currently Learning / Exploring
 
