@@ -35,7 +35,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Demagalawrence&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Demagalawrence&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=3600" />
+
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Demagalawrence&theme=tokyonight" alt="GitHub Streak" />
 </p>
