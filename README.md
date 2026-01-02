@@ -1,4 +1,9 @@
-# 👋 Hi there, 
+# 👋 Hi there,
+
+<p align="center">
+  <img src="https://i.imgur.com/9yG6N3S.gif" width="100%" alt="Matrix Rain"/>
+</p>
+
 
 🎓 I’m a **Software Engineering student at Bugema University**  
 💡 Passionate about **programming, open source, and solving real-world problems**  
