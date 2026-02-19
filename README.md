@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-🎓 I’m a **Software Engineering student at Bugema University**  
+🎓 I’m a **Software Engineering student at Bugema University, uganda**  
 💡 Passionate about **programming, open source, and solving real-world problems**  
 🌱 Currently learning **Java, HTML, CSS, Git/GitHub.
 also learning more about frameworks e.g react native and django
