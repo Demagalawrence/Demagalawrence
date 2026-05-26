@@ -5,7 +5,7 @@
 🌱 Currently learning **Java, HTML, CSS, Git/GitHub.
 also learning more about frameworks e.g react native and django
 🧑‍💻 Working on **small projects** to grow my skills and build my portfolio  
-🤝 Looking to contribute to **beginner-friendly open-source projects**
+🤝 Looking to contribute to  open-source projects**
 
 
 ## 🚀 Currently Learning / Exploring
