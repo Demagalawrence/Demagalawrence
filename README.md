@@ -1,14 +1,13 @@
 # 👋 Hi there
 
-🎓 I’m a **Software Engineering student at Bugema University, uganda.**  
-💡 Passionate about **programming, open source, and solving real-world problems**  
-🌱 Currently learning **Java, HTML, CSS, Git/GitHub.
+I’m a **Software Engineering student at Bugema University, uganda.**   Passionate about **programming, open source, and solving real-world problems**  
+Currently learning **Java, HTML, CSS, Git/GitHub.
 also learning more about frameworks e.g react native and django
-🧑‍💻 Working on **small projects** to grow my skills and build my portfolio  
-🤝 Looking to contribute to  open-source projects**
+Working on **small projects** to grow my skills and build my portfolio  
+Looking to contribute to  open-source projects**
 
 
-## 🚀 Currently Learning / Exploring
+##  Currently Learning / Exploring
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg#gh-dark-mode-only" width="40" height="40"/>
