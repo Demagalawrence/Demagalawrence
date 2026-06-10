@@ -1,4 +1,4 @@
-# 👋 Hi there
+# 👋 Hi there.
 
 I’m a **Software Engineering student at Bugema University, uganda.**   Passionate about **programming, open source, and solving real-world problems**  
 Currently learning **Java, HTML, CSS, Git/GitHub.
