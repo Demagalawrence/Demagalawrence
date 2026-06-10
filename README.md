@@ -3,7 +3,6 @@
 I’m a **Software Engineering student at Bugema University, uganda.**   Passionate about **programming, open source, and solving real-world problems**  
 Currently learning **Java, HTML, CSS, Git/GitHub.
 also learning more about frameworks e.g react native and django
-Working on **small projects** to grow my skills and build my portfolio  
 Looking to contribute to  open-source projects**
 
 
